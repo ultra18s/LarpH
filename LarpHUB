@@ -9,7 +9,7 @@ if not LPH_OBFUSCATED then --  set these if not obfuscated so your script can ru
     end
 end
 -- dne exclusive
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/3f3f3f/main/.gitignore"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/3f3f3f/main/Gui"))()
 local LinoriaNotifs = loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/idkloll/main/dood"))()
 getgenv().WatermarkColor = Color3.fromRGB(255, 0, 125)
 local DLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/fff3f3f/main/.gitignore"))()
